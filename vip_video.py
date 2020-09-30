@@ -4,8 +4,7 @@
 # Author: Jan Gao
 # Date: 2019/1/4
 # Description: 腾讯视频、优酷、爱奇艺、pptv、乐视vip视频下载
-# Site: http://www.xrtpay.com/
-# Copyright (c) ShenZhen XinRuiTai Payment Service Co.,Ltd. All rights reserved
+# Site: https://github.com/gaojan
 """
 import os
 import re
